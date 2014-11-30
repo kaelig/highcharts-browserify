@@ -31,6 +31,6 @@
     "tape": "~2.12.3"
   },
   "dependencies": {
-    "jquery": "~1.11.0"
+    "jquery": "~2.1.1"
   }
 }
